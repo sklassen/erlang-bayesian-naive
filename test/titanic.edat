@@ -1,0 +1,2733 @@
+#{'Age' => 22,'Fare' => 7.25,'Name' => "Owen Harris Braund",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 38,'Fare' => 71.2833,
+  'Name' => "John Bradley (Florence Briggs Thayer) Cumings",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 26,'Fare' => 7.925,'Name' => "Laina Heikkinen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 35,'Fare' => 53.1,
+  'Name' => "Jacques Heath (Lily May Peel) Futrelle",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 35,'Fare' => 8.05,'Name' => "William Henry Allen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 8.4583,'Name' => "James Moran",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 54,'Fare' => 51.8625,'Name' => "Timothy J McCarthy",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 2,'Fare' => 21.075,'Name' => "Gosta Leonard Palsson",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 11.1333,
+  'Name' => "Oscar W (Elisabeth Vilhelmina Berg) Johnson",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 14,'Fare' => 30.0708,'Name' => "Nicholas (Adele Achem) Nasser",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 4,'Fare' => 16.7,'Name' => "Marguerite Rut Sandstrom",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 58,'Fare' => 26.55,'Name' => "Elizabeth Bonnell",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 20,'Fare' => 8.05,'Name' => "William Henry Saundercock",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 31.275,'Name' => "Anders Johan Andersson",
+  'Parents/Children Aboard' => 5,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 14,'Fare' => 7.8542,'Name' => "Hulda Amanda Adolfina Vestrom",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 55,'Fare' => 16,'Name' => "(Mary D Kingcome) Hewlett",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 2,'Fare' => 29.125,'Name' => "Eugene Rice",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 13,'Name' => "Charles Eugene Williams",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 31,'Fare' => 18,
+  'Name' => "Julius (Emelia Maria Vandemoortele) Vander Planke",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 7.225,'Name' => "Fatima Masselmani",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 35,'Fare' => 26,'Name' => "Joseph J Fynney",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 34,'Fare' => 13,'Name' => "Lawrence Beesley",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 15,'Fare' => 8.0292,'Name' => "Anna McGowan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 35.5,'Name' => "William Thompson Sloper",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 8,'Fare' => 21.075,'Name' => "Torborg Danira Palsson",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 38,'Fare' => 31.3875,
+  'Name' => "Carl Oscar (Selma Augusta Emilia Johansson) Asplund",
+  'Parents/Children Aboard' => 5,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 26,'Fare' => 7.225,'Name' => "Farred Chehab Emir",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 263,'Name' => "Charles Alexander Fortune",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 7.8792,'Name' => "Ellen O'Dwyer",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 23,'Fare' => 7.8958,'Name' => "Lalio Todoroff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 40,'Fare' => 27.7208,'Name' => "Manuel E Uruchurtu",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Don",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 48,'Fare' => 146.5208,
+  'Name' => "William Augustus (Marie Eugenie) Spencer",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 18,'Fare' => 7.75,'Name' => "Mary Agatha Glynn",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 66,'Fare' => 10.5,'Name' => "Edward H Wheadon",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 82.1708,'Name' => "Edgar Joseph Meyer",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 42,'Fare' => 52,'Name' => "Alexander Oskar Holverson",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 7.2292,'Name' => "Hanna Mamee",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 21,'Fare' => 8.05,'Name' => "Ernest Charles Cann",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 18,'Name' => "Augusta Maria Vander Planke",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 14,'Fare' => 11.2417,'Name' => "Jamila Nicola-Yarred",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 40,'Fare' => 9.475,
+  'Name' => "Johan (Johanna Persdotter Larsson) Ahlin",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 21,
+  'Name' => "William John Robert (Dorothy Ann Wonnacott) Turpin",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 3,'Fare' => 41.5792,'Name' => "Simonne Marie Anne Andree Laroche",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 7.8792,'Name' => "Margaret Delia Devaney",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 8.05,'Name' => "William John Rogers",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 15.5,'Name' => "Denis Lennon",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 7.75,'Name' => "Bridget O'Driscoll",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 16,'Fare' => 21.6792,'Name' => "Youssef Samaan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 17.8,
+  'Name' => "Josef (Josefine Franchi) Arnold-Franchi",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 7,'Fare' => 39.6875,'Name' => "Juha Niilo Panula",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.8,'Name' => "Richard Cater Nosworthy",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 49,'Fare' => 76.7292,
+  'Name' => "Henry Sleeper (Myna Haxtun) Harper",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 29,'Fare' => 26,
+  'Name' => "Lizzie (Elizabeth Anne Wilkinson) Faunthorpe",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 65,'Fare' => 61.9792,'Name' => "Engelhart Cornelius Ostby",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 46,'Fare' => 35.5,'Name' => "Hugh Woolner",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 21,'Fare' => 10.5,'Name' => "Emily Rugg",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28.5,'Fare' => 7.2292,'Name' => "Mansouer Novel",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 5,'Fare' => 27.75,'Name' => "Constance Mirium West",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 11,'Fare' => 46.9,'Name' => "William Frederick Goodwin",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 5,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 7.2292,'Name' => "Orsen Sirayanian",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 38,'Fare' => 80,'Name' => "Amelie Icard",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 45,'Fare' => 83.475,'Name' => "Henry Birkhardt Harris",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 4,'Fare' => 27.9,'Name' => "Harald Skoog",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 64,'Fare' => 27.7208,'Name' => "Albert A Stewart",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 7,'Fare' => 15.2458,'Name' => "Gerios Moubarek",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 29,'Fare' => 10.5,'Name' => "(Elizabeth Ramell) Nye",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 8.1583,'Name' => "Ernest James Crease",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 17,'Fare' => 7.925,'Name' => "Erna Alexandra Andersson",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 4,'Survived' => 1}.
+#{'Age' => 26,'Fare' => 8.6625,'Name' => "Vincenz Kink",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 10.5,'Name' => "Stephen Curnow Jenkin",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 46.9,'Name' => "Lillian Amy Goodwin",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 5,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 73.5,'Name' => "Ambrose Jr Hood",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 26,'Fare' => 14.4542,'Name' => "Apostolos Chronopoulos",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 56.4958,'Name' => "Lee Bing",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 25,'Fare' => 7.65,'Name' => "Sigurd Hansen Moen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 7.8958,'Name' => "Ivan Staneff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 8.05,'Name' => "Rahamin Haim Moutal",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 0.83,'Fare' => 29,'Name' => "Alden Gates Caldwell",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 12.475,'Name' => "Elizabeth Dowdell",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 9,'Name' => "Achille Waelens",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 9.5,'Name' => "Jan Baptist Sheerlinck",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 31,'Fare' => 7.7875,'Name' => "Brigdet Delia McDermott",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 47.1,'Name' => "Francisco M Carrau",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 17,'Fare' => 10.5,'Name' => "Bertha Ilett",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 33,'Fare' => 15.85,
+  'Name' => "Karl Alfred (Maria Mathilda Gustafsson) Backstrom",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 3,'Survived' => 1}.
+#{'Age' => 16,'Fare' => 34.375,'Name' => "William Neal Ford",
+  'Parents/Children Aboard' => 3,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 8.05,'Name' => "Selman Francis Slocovski",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 263,'Name' => "Mabel Helen Fortune",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 3,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 8.05,'Name' => "Francesco Celotti",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 8.05,'Name' => "Emil Christmann",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 7.8542,'Name' => "Paul Edvin Andreasson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 46,'Fare' => 61.175,'Name' => "Herbert Fuller Chaffee",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 26,'Fare' => 20.575,'Name' => "Bertram Frank Dean",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 59,'Fare' => 7.25,'Name' => "Daniel Coxon",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 8.05,'Name' => "Charles Joseph Shorney",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 71,'Fare' => 34.6542,'Name' => "George B Goldschmidt",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 63.3583,'Name' => "William Bertram Greenfield",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 34,'Fare' => 23,'Name' => "John T (Ada Julia Bone) Doling",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 34,'Fare' => 26,'Name' => "Sinai Kantor",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 7.8958,'Name' => "Matilda Petranec",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 7.8958,'Name' => "Pastcho Petroff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 77.2875,'Name' => "Richard Frasar White",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 33,'Fare' => 8.6542,'Name' => "Gustaf Joel Johansson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 37,'Fare' => 7.925,'Name' => "Anders Vilhelm Gustafsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 7.8958,'Name' => "Stoytcho Mionoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.65,'Name' => "Anna Kristine Salkjelsvik",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 29,'Fare' => 7.775,'Name' => "Albert Johan Moss",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 38,'Fare' => 7.8958,'Name' => "Tido Rekic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 24.15,'Name' => "Bertha Moran",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 47,'Fare' => 52,'Name' => "Walter Chamberlain Porter",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 14.5,'Fare' => 14.4542,'Name' => "Hileni Zabour",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 8.05,'Name' => "David John Barton",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 9.825,'Name' => "Katriina Jussila",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 17,'Fare' => 14.4583,'Name' => "Malake Attalah",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.925,'Name' => "Edvard Pekoniemi",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 70.5,'Fare' => 7.75,'Name' => "Patrick Connors",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 21,'Name' => "William John Robert Turpin",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 247.5208,'Name' => "Quigg Edmond Baxter",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 2,'Fare' => 31.275,'Name' => "Ellis Anna Maria Andersson",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 73.5,'Name' => "Stanley George Hickman",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 8.05,'Name' => "Leonard Charles Moore",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 32.5,'Fare' => 30.0708,'Name' => "Nicholas Nasser",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 32.5,'Fare' => 13,'Name' => "Susan Webber",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 54,'Fare' => 77.2875,'Name' => "Percival Wayland White",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 12,'Fare' => 11.2417,'Name' => "Elias Nicola-Yarred",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 7.75,'Name' => "Martin McMahon",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 7.1417,'Name' => "Fridtjof Arne Madsen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 2,'Fare' => 22.3583,'Name' => "Anna Peter",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 45,'Fare' => 6.975,'Name' => "Johan Ekstrom",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 33,'Fare' => 7.8958,'Name' => "Jozef Drazenoic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 7.05,'Name' => "Domingos Fernandeo Coelho",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 47,'Fare' => 14.5,
+  'Name' => "Alexander A (Grace Charity Laury) Robins",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 26,
+  'Name' => "Leopold (Mathilde Francoise Pede) Weisz",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 25,'Fare' => 13,'Name' => "Samuel James Hayden Sobey",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 15.0458,'Name' => "Emile Richard",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 26.2833,'Name' => "Helen Monypeny Newsom",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 37,'Fare' => 53.1,'Name' => "Jacques Heath Futrelle",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 9.2167,'Name' => "Olaf Elon Osen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 79.2,'Name' => "Victor Giglio",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 40,'Fare' => 15.2458,'Name' => "Joseph (Sultana) Boulos",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 7.75,'Name' => "Anna Sofia Nysten",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 15.85,
+  'Name' => "Pekka Pietari (Elin Matilda Dolck) Hakkarainen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 6.75,'Name' => "Jeremiah Burke",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 11.5,'Name' => "Edgardo Samuel Andrew",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 36.75,'Name' => "Joseph Charles Nicholls",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 7.7958,'Name' => "August Edvard Andersson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 9,'Fare' => 34.375,'Name' => "Robina Maggie Ford",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 36.5,'Fare' => 26,'Name' => "Michel Navratil",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 42,'Fare' => 13,'Name' => "Thomas Roussel Davids Byles",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Rev",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 51,'Fare' => 12.525,'Name' => "Robert James Bateman",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Rev",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 66.6,'Name' => "Thomas (Edith Wearne) Pears",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 55.5,'Fare' => 8.05,'Name' => "Alfonzo Meo",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 40.5,'Fare' => 14.5,'Name' => "Austin Blyler van Billiard",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 7.3125,'Name' => "Ole Martin Olsen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 51,'Fare' => 61.3792,'Name' => "Charles Duane Williams",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 7.7333,'Name' => "Katherine Gilnagh",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 8.05,'Name' => "Harry Corn",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 37,'Fare' => 8.6625,'Name' => "Mile Smiljanic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 5,'Fare' => 69.55,'Name' => "Thomas Henry Sage",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 8,'Survived' => 0}.
+#{'Age' => 44,'Fare' => 16.1,'Name' => "John Hatfield Cribb",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 40,'Fare' => 15.75,'Name' => "James (Elizabeth Inglis Milne) Watt",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 26,'Fare' => 7.775,'Name' => "John Viktor Bengtsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 17,'Fare' => 8.6625,'Name' => "Jovo Calic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 1,'Fare' => 39.6875,'Name' => "Eino Viljami Panula",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 9,'Fare' => 20.525,'Name' => "Frank John William Goldsmith",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 48,'Fare' => 55,'Name' => "(Edith Martha Bowerman) Chibnall",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 45,'Fare' => 27.9,
+  'Name' => "William (Anna Bernhardina Karlsson) Skoog",
+  'Parents/Children Aboard' => 4,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 60,'Fare' => 25.925,'Name' => "John D Baumann",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 56.4958,'Name' => "Lee Ling",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 61,'Fare' => 33.5,'Name' => "Wyckoff Van der hoef",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 4,'Fare' => 29.125,'Name' => "Arthur Rice",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 1,'Fare' => 11.1333,'Name' => "Eleanor Ileen Johnson",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 21,'Fare' => 7.925,'Name' => "Antti Wilhelm Sivola",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 56,'Fare' => 30.6958,'Name' => "James Clinch Smith",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 7.8542,'Name' => "Klas Albin Klasen",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 5,'Fare' => 25.4667,'Name' => "Henry Forbes Lefebre",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 50,'Fare' => 28.7125,'Name' => "Ann Elizabeth Isham",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 13,'Name' => "Reginald Hale",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 0,'Name' => "Lionel Leonard",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 8,'Fare' => 69.55,'Name' => "Constance Gladys Sage",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 8,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 15.05,'Name' => "Rene Pernot",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 9,'Fare' => 31.3875,'Name' => "Clarence Gustaf Hugo Asplund",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 1,'Fare' => 39,'Name' => "Richard F Becker",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 4,'Fare' => 22.025,'Name' => "Luise Gretchen Kink-Heilmann",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 39,'Fare' => 50,'Name' => "Hugh Roscoe Rood",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 26,'Fare' => 15.5,'Name' => "Thomas (Johanna Godfrey) O'Brien",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 45,'Fare' => 26.55,'Name' => "Charles Hallace Romaine",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 40,'Fare' => 15.5,'Name' => "John Bourke",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 7.8958,'Name' => "Stjepan Turcin",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 13,'Name' => "(Rosa) Pinsky",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 13,'Name' => "William Carbines",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 7.8542,
+  'Name' => "Carla Christine Nielsine Andersen-Jensen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 3,'Fare' => 26,'Name' => "Michel M Navratil",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 44,'Fare' => 27.7208,
+  'Name' => "James Joseph (Margaret Tobin) Brown",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 58,'Fare' => 146.5208,'Name' => "Elise Lurette",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 7.75,'Name' => "Robert Mernagh",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 42,'Fare' => 8.4042,'Name' => "Karl Siegwart Andreas Olsen",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.75,'Name' => "Margaret Madigan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 13,'Name' => "Henriette Yrois",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 9.5,'Name' => "Nestor Cyriel Vande Walle",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 17,'Fare' => 69.55,'Name' => "Frederick Sage",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 8,'Survived' => 0}.
+#{'Age' => 34,'Fare' => 6.4958,'Name' => "Jakob Alfred Johanson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 45.5,'Fare' => 7.225,'Name' => "Gerious Youseff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 8.05,'Name' => "Gurshon Cohen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 2,'Fare' => 10.4625,'Name' => "Telma Matilda Strom",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 15.85,'Name' => "Karl Alfred Backstrom",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 26,'Fare' => 18.7875,'Name' => "Nassef Cassem Albimona",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 16,'Fare' => 7.75,'Name' => "Helen Carr",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 40,'Fare' => 31,'Name' => "Henry Blank",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 7.05,'Name' => "Ahmed Ali",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 21,'Name' => "Clear Annie Cameron",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.25,'Name' => "John Henry Perkin",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 13,'Name' => "Hans Kristensen Givard",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 7.75,'Name' => "Philip Kiernan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 31,'Fare' => 113.275,'Name' => "Madeleine Newell",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 27,'Fare' => 7.925,'Name' => "Eliina Honkanen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 42,'Fare' => 27,'Name' => "Sidney Samuel Jacobsohn",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 76.2917,'Name' => "Albina Bazzani",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 10.5,'Name' => "Walter Harris",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 8.05,'Name' => "Victor Francis Sunderland",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 27,'Fare' => 13,'Name' => "James H Bracken",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 51,'Fare' => 8.05,'Name' => "George Henry Green",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 7.8958,'Name' => "Christo Nenkoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 38,'Fare' => 90,'Name' => "Frederick Maxfield Hoyt",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 9.35,'Name' => "Karl Ivar Sven Berglund",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 10.5,'Name' => "William John Mellors",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 20.5,'Fare' => 7.25,'Name' => "John Hall Lovell",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 13,'Name' => "Arne Jonas Fahlstrom",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 12,'Fare' => 25.4667,'Name' => "Mathilde Lefebre",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 83.475,
+  'Name' => "Henry Birkhardt (Irene Wallach) Harris",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 29,'Fare' => 7.775,'Name' => "Bengt Edvin Larsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 59,'Fare' => 13.5,'Name' => "Ernst Adolf Sjostedt",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 5,'Fare' => 31.3875,'Name' => "Lillian Gertrud Asplund",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 4,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 10.5,'Name' => "Robert William Norman Leyson",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.55,'Name' => "Alice Phoebe Harknett",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 44,'Fare' => 26,'Name' => "Stephen Hold",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 8,'Fare' => 26.25,'Name' => "Marjorie Collyer",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 10.5,'Name' => "Frederick William Pengelly",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 33,'Fare' => 12.275,'Name' => "George Henry Hunt",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 14.4542,'Name' => "Thamine Zabour",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 15.5,'Name' => "Katherine Murphy",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 29,'Fare' => 10.5,'Name' => "Reginald Charles Coleridge",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 7.125,'Name' => "Matti Alexanteri Maenpaa",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 7.225,'Name' => "Sleiman Attalah",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 44,'Fare' => 90,'Name' => "William Edward Minahan",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Dr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 7.775,'Name' => "Agda Thorilda Viktoria Lindahl",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 14.5,'Name' => "William (Anna) Hamalainen",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 37,'Fare' => 52.5542,'Name' => "Richard Leonard Beckwith",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 54,'Fare' => 26,'Name' => "Ernest Courtenay Carter",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Rev",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 7.25,'Name' => "James George Reed",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 10.4625,
+  'Name' => "Wilhelm (Elna Matilda Persson) Strom",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 62,'Fare' => 26.55,'Name' => "William Thomas Stead",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 16.1,'Name' => "William Arthur Lobb",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 41,'Fare' => 20.2125,
+  'Name' => "Viktor (Helena Wilhelmina) Rosblom",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 15.2458,'Name' => "Darwis (Hanne Youssef Razi) Touma",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 38,'Fare' => 79.2,'Name' => "Gertrude Maybelle Thorne",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 86.5,'Name' => "Gladys Cherry",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 35,'Fare' => 512.3292,'Name' => "Anna Ward",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 50,'Fare' => 26,'Name' => "(Lutie Davis) Parrish",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 3,'Fare' => 31.3875,'Name' => "Edvin Rojj Felix Asplund",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 1}.
+#{'Age' => 52,'Fare' => 79.65,'Name' => "Emil Taussig",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 40,'Fare' => 0,'Name' => "William Harrison",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.75,'Name' => "Delia Henry",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 10.5,'Name' => "David Reeves",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 39.6875,'Name' => "Ernesti Arvid Panula",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 7.775,'Name' => "Ernst Ulrik Persson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 58,'Fare' => 153.4625,
+  'Name' => "William Thompson (Edith Junkins) Graham",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 35,'Fare' => 135.6333,'Name' => "Amelia Bissette",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 31,'Name' => "Alexander Cairns",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 0,'Name' => "William Henry Tornquist",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 41,'Fare' => 19.5,'Name' => "(Elizabeth Anne Maidment) Mellinger",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 37,'Fare' => 29.7,'Name' => "Charles H Natsch",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 33,'Fare' => 7.75,'Name' => "Hanora Healy",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 63,'Fare' => 77.9583,'Name' => "Kornelia Theodosia Andrews",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 45,'Fare' => 7.75,'Name' => "Augusta Charlotta Lindblom",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 0,'Name' => "Francis Parkes",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 7,'Fare' => 29.125,'Name' => "Eric Rice",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 20.25,'Name' => "Stanton (Rosa Hunt) Abbott",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 65,'Fare' => 7.75,'Name' => "Frank Duane",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 7.8542,'Name' => "Nils Johan Goransson Olsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 9.5,'Name' => "Alfons de Pelsmaeker",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 8.05,'Name' => "Edward Arthur Dorking",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 57,'Fare' => 26,'Name' => "Richard William Smith",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 33,'Fare' => 8.6625,'Name' => "Ivan Stankovic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 9.5,'Name' => "Theodore de Mulder",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.8958,'Name' => "Penko Naidenoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 42,'Fare' => 13,'Name' => "Masabumi Hosono",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.75,'Name' => "Kate Connolly",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 26,'Fare' => 78.85,'Name' => "Ellen Barber",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 91.0792,'Name' => "Dickinson H (Helen Walton) Bishop",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 36,'Fare' => 12.875,'Name' => "Rene Jacques Levy",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 8.85,'Name' => "Aloisia Haas",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 7.8958,'Name' => "Ivan Mineff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 27.7208,'Name' => "Ervin G Lewy",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23.5,'Fare' => 7.2292,'Name' => "Mansour Hanna",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 2,'Fare' => 151.55,'Name' => "Helen Loraine Allison",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 47,'Fare' => 30.5,'Name' => "Adolphe Saalfeld",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 50,'Fare' => 247.5208,
+  'Name' => "James (Helene DeLaudeniere Chaput) Baxter",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 20,'Fare' => 7.75,'Name' => "Anna Katherine Kelly",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 23.25,'Name' => "Bernard McCoy",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 0,'Name' => "William Cahoone Jr Johnson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 46,'Fare' => 12.35,'Name' => "Nora A Keane",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 8.05,'Name' => "Howard Hugh Williams",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 0.92,'Fare' => 151.55,'Name' => "Hudson Trevor Allison",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 42,'Fare' => 110.8833,'Name' => "Margaret Fleming",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 17,'Fare' => 108.9,
+  'Name' =>
+      "Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 24,'Name' => "Samuel Abelson",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 56.9292,'Name' => "Laura Mabel Francatelli",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 83.1583,'Name' => "Margaret Bechstein Hays",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 18,'Fare' => 262.375,'Name' => "Emily Borie Ryerson",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 26,'Fare' => 26,'Name' => "William (Anna Sylfven) Lahtinen",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 7.8958,'Name' => "Ignjac Hendekovic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 43,'Fare' => 26.25,'Name' => "Benjamin Hart",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 26,'Fare' => 7.8542,'Name' => "Helmina Josefina Nilsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 26,'Name' => "Sinai (Miriam Sternin) Kantor",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 54,'Fare' => 14,'Name' => "Ernest Moraweck",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Dr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 31,'Fare' => 164.8667,'Name' => "Mary Natalie Wick",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 40,'Fare' => 134.5,
+  'Name' => "Frederic Oakley (Margaretta Corning Stone) Spedden",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.25,'Name' => "Samuel Dennis",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 7.8958,'Name' => "Yoto Danoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 12.35,'Name' => "Hilda Mary Slayter",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 29,
+  'Name' => "Albert Francis (Sylvia Mae Harbaugh) Caldwell",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 20,'Fare' => 69.55,'Name' => "George John Jr Sage",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 8,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 135.6333,'Name' => "Marie Grice Young",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 61,'Fare' => 6.2375,'Name' => "Johan Hansen Nysveen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 13,'Name' => "(Ada E Hall) Ball",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 31,'Fare' => 20.525,
+  'Name' => "Frank John (Emily Alice Brown) Goldsmith",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 16,'Fare' => 57.9792,'Name' => "Jean Gertrude Hippach",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 23.25,'Name' => "Agnes McCoy",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 45.5,'Fare' => 28.5,'Name' => "Austen Partner",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 38,'Fare' => 153.4625,'Name' => "George Edward Graham",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 18,'Name' => "Leo Edmondus Vander Planke",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 42,'Fare' => 133.65,
+  'Name' => "Henry William (Clara Heinsheimer) Frauenthal",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 7.8958,'Name' => "Mitto Denkoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 66.6,'Name' => "Thomas Clinton Pears",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 41,'Fare' => 134.5,'Name' => "Elizabeth Margaret Burns",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 45,'Fare' => 8.05,'Name' => "Karl Edwart Dahl",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 45,'Fare' => 35.5,'Name' => "Stephen Weart Blackwell",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 2,'Fare' => 26,'Name' => "Edmond Roger Navratil",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 263,'Name' => "Alice Elizabeth Fortune",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 3,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 13,'Name' => "Erik Gustaf Collander",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 13,'Name' => "Charles Frederick Waddington Sedgwick",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 13,'Name' => "Stanley Hubert Fox",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 13,'Name' => "Amelia Brown",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 40,'Fare' => 13,'Name' => "Marion Elsie Smith",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 34,'Fare' => 16.1,'Name' => "Thomas Henry (Mary E Finck) Davison",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 3,'Fare' => 15.9,'Name' => "William Loch Coutts",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 42,'Fare' => 8.6625,'Name' => "Jovan Dimic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 9.225,'Name' => "Nils Martin Odahl",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 43,'Fare' => 35,'Name' => "Fletcher Fellows Williams-Lambert",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 15,'Fare' => 7.2292,'Name' => "Tannous Elias",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 17.8,'Name' => "Josef Arnold-Franchi",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 7.225,'Name' => "Wazli Yousif",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 9.5,'Name' => "Leo Peter Vanden Steen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 55,'Name' => "Elsie Edith Bowerman",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 38,'Fare' => 13,'Name' => "Annie Clemmer Funk",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 7.8792,'Name' => "Mary McGovern",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 23,'Fare' => 7.8792,'Name' => "Helen Mary Mockler",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 40,'Fare' => 27.9,'Name' => "Wilhelm Skoog",
+  'Parents/Children Aboard' => 4,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 27.7208,'Name' => "Sebastiano del Carlo",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 45,'Fare' => 14.4542,'Name' => "(Catherine David) Barbara",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 7.05,'Name' => "Adola Asim",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 15.5,'Name' => "Thomas O'Brien",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 7.25,'Name' => "Mauritz Nils Martin Adahl",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 60,'Fare' => 75.25,
+  'Name' => "Frank Manley (Anna Sophia Atkinson) Warren",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 35,'Fare' => 7.2292,'Name' => "(Mantoura Boulos) Moussa",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.75,'Name' => "Annie Jermyn",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 69.3,'Name' => "Leontine Pauline Aubart",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mme",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 25,'Fare' => 55.4417,'Name' => "George Achilles Harder",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 18,'Fare' => 6.4958,'Name' => "Jakob Alfred Wiklund",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 8.05,'Name' => "William Thomas Beavan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 135.6333,'Name' => "Sante Ringhini",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 3,'Fare' => 21.075,'Name' => "Stina Viola Palsson",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 82.1708,'Name' => "Edgar Joseph (Leila Saks) Meyer",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.25,'Name' => "Aurora Adelia Landergren",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 27,'Fare' => 211.5,'Name' => "Harry Elkins Widener",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 4.0125,'Name' => "Tannous Betros",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 7.775,'Name' => "Karl Gideon Gustafsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 42,'Fare' => 227.525,'Name' => "Rosalie Bidois",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 1,'Fare' => 15.7417,'Name' => "Maria Nakid",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 32,'Fare' => 7.925,'Name' => "Juho Tikkanen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 52,
+  'Name' => "Alexander Oskar (Mary Aline Towner) Holverson",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 27,'Fare' => 7.8958,'Name' => "Vasil Plotcharsky",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 73.5,'Name' => "Charles Henry Davies",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 1,'Fare' => 46.9,'Name' => "Sidney Leonard Goodwin",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 5,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 13,'Name' => "Kate Buss",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 7.7292,'Name' => "Matthew Sadlier",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 17,'Fare' => 12,'Name' => "Bertha Lehmann",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 36,'Fare' => 120,'Name' => "William Ernest Carter",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 21,'Fare' => 7.7958,'Name' => "Carl Olof Jansson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 7.925,'Name' => "Johan Birger Gustafsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 113.275,'Name' => "Marjorie Newell",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 16.7,
+  'Name' => "Hjalmar (Agnes Charlotta Bengtsson) Sandstrom",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.7958,'Name' => "Erik Johansson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 31,'Fare' => 7.8542,'Name' => "Elina Olsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 46,'Fare' => 26,'Name' => "Peter David McKane",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 10.5,'Name' => "Alfred Pain",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Dr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 12.65,'Name' => "William H (Jessie L) Trout",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 39,'Fare' => 7.925,'Name' => "Juha Niskanen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 26,'Fare' => 8.05,'Name' => "John Adams",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 9.825,'Name' => "Mari Aina Jussila",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 15.85,'Name' => "Pekka Pietari Hakkarainen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 8.6625,'Name' => "Marija Oreskovic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 34,'Fare' => 21,'Name' => "Shadrach Gale",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 51,'Fare' => 7.75,'Name' => "Carl/Charles Peter Widegren",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 3,'Fare' => 18.75,'Name' => "William Rowe Richards",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 21,'Fare' => 7.775,'Name' => "Hans Martin Monsen Birkeland",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 3,'Fare' => 25.4667,'Name' => "Ida Lefebre",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 42,'Fare' => 7.8958,'Name' => "Todor Sdycoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 6.8583,'Name' => "Henry Hart",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 33,'Fare' => 90,'Name' => "Daisy E Minahan",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 0,'Name' => "Alfred Fleming Cunningham",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 44,'Fare' => 7.925,'Name' => "Johan Julian Sundman",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 32,'Fare' => 8.05,'Name' => "Thomas (Annie Louise Rowley) Meek",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 34,'Fare' => 32.5,
+  'Name' => "James Vivian (Lulu Thorne Christian) Drew",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 18,'Fare' => 13,'Name' => "Lyyli Karoliina Silven",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 13,'Name' => "William John Matthews",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 10,'Fare' => 24.15,'Name' => "Catharina Van Impe",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.7333,'Name' => "David Charters",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 7.875,'Name' => "Leo Zimmerman",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 14.4,
+  'Name' => "Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 20.2125,'Name' => "Viktor Richard Rosblom",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 54,'Fare' => 7.25,'Name' => "Phillippe Wiseman",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 26,'Name' => "Charles V (Ada Maria Winfield) Clarke",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 26,'Name' => "Kate Florence Phillips",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 7.75,'Name' => "James Flynn",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 8.05,'Name' => "Berk (Berk Trembisky) Pickard",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 26.55,
+  'Name' => "Mauritz Hakan Bjornstrom-Steffansson",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 33,'Fare' => 16.1,
+  'Name' => "Percival (Florence Kate White) Thorneycroft",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 42,'Fare' => 26,
+  'Name' => "Charles Alexander (Alice Adelaide Slow) Louch",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 17,'Fare' => 7.125,'Name' => "Nikolai Erland Kallio",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 50,'Fare' => 55.9,'Name' => "William Baird Silvey",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 14,'Fare' => 120,'Name' => "Lucile Polk Carter",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 21,'Fare' => 34.375,'Name' => "Doolina Margaret Ford",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 18.75,'Name' => "Sidney (Emily Hocking) Richards",
+  'Parents/Children Aboard' => 3,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 64,'Fare' => 263,'Name' => "Mark Fortune",
+  'Parents/Children Aboard' => 4,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 31,'Fare' => 10.5,'Name' => "Johan Henrik Johannesson Kvillner",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 45,'Fare' => 26.25,
+  'Name' => "Benjamin (Esther Ada Bloomfield) Hart",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 20,'Fare' => 9.5,'Name' => "Leon Hampe",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 7.775,'Name' => "Johan Emil Petterson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 13,'Name' => "Encarnacion Reynaldo",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Ms",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 29,'Fare' => 8.1125,'Name' => "Bernt Johannesen-Bratthammer",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 4,'Fare' => 81.8583,'Name' => "Washington Dodge",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 13,'Fare' => 19.5,'Name' => "Madeleine Violet Mellinger",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 34,'Fare' => 26.55,'Name' => "Frederic Kimber Seward",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 5,'Fare' => 19.2583,'Name' => "Marie Catherine Baclini",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 52,'Fare' => 30.5,'Name' => "Arthur Godfrey Peuchen",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Major",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 36,'Fare' => 27.75,'Name' => "Edwy Arthur West",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 19.9667,'Name' => "Ingvald Olai Olsen Hagland",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 27.75,'Name' => "Benjamin Laventall Foreman",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 49,'Fare' => 89.1042,'Name' => "Samuel L Goldenberg",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 8.05,'Name' => "Joseph Peduzzi",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 7.8958,'Name' => "Ivan Jalsevac",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 65,'Fare' => 26.55,'Name' => "Francis Davis Millet",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 41,'Fare' => 51.8625,'Name' => "Frederick R (Marion) Kenyon",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 50,'Fare' => 10.5,'Name' => "Ellen Toomey",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 17,'Fare' => 7.75,'Name' => "Maurice O'Connor",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 48,'Fare' => 26.55,'Name' => "Harry Anderson",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 34,'Fare' => 8.05,'Name' => "William Morley",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 47,'Fare' => 38.5,'Name' => "Arthur H Gee",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 48,'Fare' => 13,'Name' => "Jacob Christian Milling",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 34,'Fare' => 8.05,'Name' => "Simon Maisner",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 38,'Fare' => 7.05,'Name' => "Manuel Estanslas Goncalves",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 0,'Name' => "William Campbell",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 56,'Fare' => 26.55,'Name' => "John Montgomery Smart",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 7.725,'Name' => "James Scanlan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 0.75,'Fare' => 19.2583,'Name' => "Helene Barbara Baclini",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 39,'Fare' => 7.25,'Name' => "Arthur Keefe",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 38,'Fare' => 8.6625,'Name' => "Luka Cacic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 33,'Fare' => 27.75,'Name' => "Edwy Arthur (Ada Mary Worth) West",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 23,'Fare' => 13.7917,
+  'Name' => "Amin S (Marie Marthe Thuillard) Jerwan",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 9.8375,'Name' => "Ida Sofia Strandberg",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 40,'Fare' => 52,'Name' => "George Quincy Clifford",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 34,'Fare' => 21,'Name' => "Peter Henry Renouf",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 7.0458,'Name' => "Lewis Richard Braund",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 7.5208,'Name' => "Nils August Karlsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 2,'Fare' => 12.2875,'Name' => "Hildur E Hirvonen",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 9,'Fare' => 46.9,'Name' => "Harold Victor Goodwin",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 5,'Survived' => 0}.
+#{'Age' => 37,'Fare' => 0,'Name' => "Anthony Wood Frost",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 50,'Fare' => 8.05,'Name' => "Richard Henry Rouse",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 63,'Fare' => 9.5875,'Name' => "(Hedwig) Turkula",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 25,'Fare' => 91.0792,'Name' => "Dickinson H Bishop",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 8,'Fare' => 25.4667,'Name' => "Jeannie Lefebre",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 90,
+  'Name' => "Frederick Maxfield (Jane Anne Forby) Hoyt",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 58,'Fare' => 29.7,'Name' => "Edward Austin Kent",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 8.05,'Name' => "Francis William Somerton",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 9,'Fare' => 15.9,'Name' => "Eden Leslie Coutts",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 19.9667,'Name' => "Konrad Mathias Reiersen Hagland",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.25,'Name' => "Einar Windelov",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 55,'Fare' => 30.5,'Name' => "Harry Markland Molson",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 71,'Fare' => 49.5042,'Name' => "Ramon Artagaveytia",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 8.05,'Name' => "Edward Roland Stanley",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 26,'Fare' => 14.4583,'Name' => "Gerious Yousseff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 54,'Fare' => 78.2667,'Name' => "Elizabeth Mussey Eustis",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 55,'Fare' => 15.1,'Name' => "Frederick William Shellard",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 151.55,
+  'Name' => "Hudson J C (Bessie Waldo Daniels) Allison",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 7.7958,'Name' => "Olof Svensson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 17,'Fare' => 8.6625,'Name' => "Petar Calic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.75,'Name' => "Mary Canavan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.6292,'Name' => "Bridget Mary O'Sullivan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 37,'Fare' => 9.5875,'Name' => "Kristina Sofia Laitinen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 86.5,'Name' => "Roberta Maioni",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 18,'Fare' => 108.9,
+  'Name' => "Victor de Satode Penasco y Castellana",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 33,'Fare' => 26,
+  'Name' => "Frederick Charles (Jane Richards) Quick",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 37,'Fare' => 26.55,'Name' => "George Bradley",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 22.525,'Name' => "Henry Margido Olsen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 26,'Fare' => 56.4958,'Name' => "Fang Lang",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 29,'Fare' => 7.75,'Name' => "Eugene Patrick Daly",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 66,'Fare' => 8.05,'Name' => "James Webber",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 26.2875,'Name' => "James Robert McGough",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 54,'Fare' => 59.4,
+  'Name' => "Martin (Elizabeth L. Barrett) Rothschild",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 7.4958,'Name' => "Satio Coleff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 47,'Fare' => 34.0208,'Name' => "William Anderson Walker",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 34,'Fare' => 10.5,'Name' => "(Amelia Milley) Lemore",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 24.15,'Name' => "Patrick Ryan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 26,
+  'Name' => "William A (Florence Agnes Hughes) Angle",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 32,'Fare' => 7.8958,'Name' => "Stefo Pavlovic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 93.5,'Name' => "Anne Perreault",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.8958,'Name' => "Janko Vovk",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 7.225,'Name' => "Sarkis Lahoud",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 44,'Fare' => 57.9792,
+  'Name' => "Louis Albert (Ida Sophia Fischer) Hippach",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 18,'Fare' => 7.2292,'Name' => "Fared Kassem",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 40.5,'Fare' => 7.75,'Name' => "James Farrell",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 50,'Fare' => 10.5,'Name' => "Lucy Ridsdale",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 49,'Fare' => 221.7792,'Name' => "John Farthing",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 7.925,'Name' => "Johan Werner Salonen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 11.5,'Name' => "Richard George Hocking",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 2,'Fare' => 26,'Name' => "Phyllis May Quick",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 17,'Fare' => 7.2292,'Name' => "Nakli Toufik",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 17,'Fare' => 7.2292,'Name' => "Joseph Jr Elias",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 22.3583,'Name' => "Catherine (Catherine Rizk) Peter",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 8.6625,'Name' => "Marija Cacic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 7,'Fare' => 26.25,'Name' => "Eva Miriam Hart",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 45,'Fare' => 26.55,'Name' => "Archibald Willingham Butt",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Major",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 106.425,'Name' => "Bertha LeRoy",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 69,'Fare' => 14.5,'Name' => "Samuel Beard Risien",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 49.5,'Name' => "Hedwig Margaritha Frolicher",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 36,'Fare' => 71,'Name' => "Harriet R Crosby",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 9,'Fare' => 31.275,'Name' => "Ingeborg Constanzia Andersson",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 11,'Fare' => 31.275,'Name' => "Sigrid Elisabeth Andersson",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 26,'Name' => "Edward Beane",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 50,'Fare' => 106.425,'Name' => "Walter Donald Douglas",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 64,'Fare' => 26,'Name' => "Arthur Ernest Nicholson",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 26,'Name' => "Edward (Ethel Clarke) Beane",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 27,'Fare' => 13.8625,'Name' => "Julian Padro y Manent",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 33,'Fare' => 20.525,'Name' => "Frank John Goldsmith",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 8,'Fare' => 36.75,'Name' => "John Morgan Jr Davies",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 17,'Fare' => 110.8833,'Name' => "John Borland Jr Thayer",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 27,'Fare' => 26,'Name' => "Percival James R Sharp",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.8292,'Name' => "Timothy O'Brien",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 7.225,'Name' => "Fahim Leeni",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.775,'Name' => "Velin Ohman",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 62,'Fare' => 26.55,'Name' => "George Wright",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 48,'Fare' => 39.6,
+  'Name' => "(Lucille Christiana Sutherland)Duff Gordon",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Lady",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 45,'Fare' => 227.525,'Name' => "Victor Robbins",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 79.65,'Name' => "Emil (Tillie Mandelbaum) Taussig",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 36,'Fare' => 17.4,
+  'Name' => "Guillaume Joseph (Emma) de Messemaeker",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 7.75,'Name' => "Thomas Rowan Morrow",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 40,'Fare' => 7.8958,'Name' => "Husein Sivic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 13.5,'Name' => "Robert Douglas Norman",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 40,'Fare' => 8.05,'Name' => "John Simmons",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 62,'Fare' => 8.05,'Name' => "(Marion Ogden) Meanwell",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 24.15,'Name' => "Alfred J Davies",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 7.8958,'Name' => "Ilia Stoytcheff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 21.075,
+  'Name' => "Nils (Alma Cornelia Berglund) Palsson",
+  'Parents/Children Aboard' => 4,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 7.2292,'Name' => "Tannous Doharr",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 7.8542,'Name' => "Carl Jonsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 62,'Fare' => 10.5,'Name' => "George Harris",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 53,'Fare' => 51.4792,
+  'Name' => "Edward Dale (Charlotte Lamson) Appleton",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 36,'Fare' => 26.3875,'Name' => "John Irwin Flynn",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.75,'Name' => "Mary Kelly",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 16,'Fare' => 8.05,'Name' => "Alfred George John Rush",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 14.5,'Name' => "George Patchett",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 34,'Fare' => 13,'Name' => "Ethel Garside",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 39,'Fare' => 55.9,'Name' => "William Baird (Alice Munger) Silvey",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 18,'Fare' => 14.4583,'Name' => "Joseph (Maria Elias) Caram",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 7.925,'Name' => "Eiriik Jussila",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 25,'Fare' => 30,'Name' => "Julie Rachel Christy",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 39,'Fare' => 110.8833,
+  'Name' => "John Borland (Marian Longstreth Morris) Thayer",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 54,'Fare' => 26,'Name' => "William James Downton",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 40.125,'Name' => "John Hugo Ross",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 8.7125,'Name' => "Uscher Paulner",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 79.65,'Name' => "Ruth Taussig",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 47,'Fare' => 15,'Name' => "John Denzil Jarvis",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 60,'Fare' => 79.2,'Name' => "Maxmillian Frolicher-Stehli",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 8.05,'Name' => "Eliezer Gilinski",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 8.05,'Name' => "Joseph Murdlin",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 7.125,'Name' => "Matti Rintamaki",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 52,'Fare' => 78.2667,
+  'Name' => "Walter Bertram (Martha Eustis) Stephenson",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 47,'Fare' => 7.25,'Name' => "William James Elsbury",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 40,'Fare' => 7.75,'Name' => "Mary Bourke",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 37,'Fare' => 26,'Name' => "John Henry Chapman",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 24.15,'Name' => "Jean Baptiste Van Impe",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 31,'Fare' => 33,'Name' => "Jessie Wills Leitch",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 49,'Fare' => 0,'Name' => "Alfred Johnson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 7.225,'Name' => "Hanna Boulos",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 49,'Fare' => 56.9292,'Name' => "Cosmo Edmund Duff Gordon",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Sir",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 27,
+  'Name' => "Sidney Samuel (Amy Frances Christy) Jacobsohn",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 42,'Fare' => 7.8958,'Name' => "Petco Slabenoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 37,'Fare' => 42.4,'Name' => "Charles H Harrington",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 44,'Fare' => 8.05,'Name' => "Ernst William Torber",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 26.55,'Name' => "Harry Homer",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 36,'Fare' => 15.55,'Name' => "Edvard Bengtsson Lindell",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 7.8958,'Name' => "Milan Karaic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 30.5,'Name' => "Robert Williams Daniel",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 41.5792,
+  'Name' => "Joseph (Juliette Marie Louise Lafargue) Laroche",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 40,'Fare' => 153.4625,'Name' => "Elizabeth W Shutes",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 39,'Fare' => 31.275,
+  'Name' => "Anders Johan (Alfrida Konstantia Brogren) Andersson",
+  'Parents/Children Aboard' => 5,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 7.05,'Name' => "Jose Neto Jardin",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 15.5,'Name' => "Margaret Jane Murphy",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.75,'Name' => "John Horgan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 8.05,'Name' => "William Alfred Brocklebank",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 65,'Name' => "Alice Herman",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 34,'Fare' => 14.4,'Name' => "Ernst Gilbert Danbom",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 26,'Fare' => 16.1,
+  'Name' => "William Arthur (Cordelia K Stanlick) Lobb",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 4,'Fare' => 39,'Name' => "Marion Louise Becker",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 26,'Fare' => 10.5,'Name' => "Lawrence Gavey",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 14.4542,'Name' => "Antoni Yasbeck",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 42,'Fare' => 52.5542,'Name' => "Edwin Nelson Jr Kimball",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 20,'Fare' => 15.7417,'Name' => "Sahid Nakid",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 21,'Fare' => 7.8542,'Name' => "Henry Damsgaard Hansen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 16.1,'Name' => "David John Bowen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 61,'Fare' => 32.3208,'Name' => "Frederick Sutton",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 57,'Fare' => 12.35,'Name' => "Charles Leonard Kirkland",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Rev",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 77.9583,'Name' => "Gretchen Fiske Longley",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 26,'Fare' => 7.8958,'Name' => "Guentcho Bostandyeff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 7.7333,'Name' => "Patrick D O'Connell",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 80,'Fare' => 30,'Name' => "Algernon Henry Wilson Barkworth",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 51,'Fare' => 7.0542,'Name' => "Johan Svensson Lundahl",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 30.5,'Name' => "Max Stahelin-Maeglin",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Dr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 0,'Name' => "William Henry Marsh Parr",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 9,'Fare' => 27.9,'Name' => "Mabel Skoog",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 13,'Name' => "Mary Davis",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 32,'Fare' => 7.925,'Name' => "Antti Gustaf Leinonen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 31,'Fare' => 26.25,'Name' => "Harvey Collyer",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 41,'Fare' => 39.6875,'Name' => "Juha (Maria Emilia Ojala) Panula",
+  'Parents/Children Aboard' => 5,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 37,'Fare' => 16.1,'Name' => "Percival Thorneycroft",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 7.8542,'Name' => "Hans Peder Jensen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 69.3,'Name' => "Emma Sagesser",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mlle",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 2,'Fare' => 27.9,'Name' => "Margit Elizabeth Skoog",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 56.4958,'Name' => "Choong Foo",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 0.75,'Fare' => 19.2583,'Name' => "Eugenie Baclini",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 48,'Fare' => 76.7292,'Name' => "Henry Sleeper Harper",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 7.8958,'Name' => "Liudevit Cor",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 56,'Fare' => 35.5,'Name' => "Oberst Alfons Simonius-Blumer",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Col",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 21,'Fare' => 7.55,'Name' => "Edward Willey",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 7.55,'Name' => "Amy Zillah Elsie Stanley",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 23,'Fare' => 7.8958,'Name' => "Mito Mitkoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 23,'Name' => "Elsie Doling",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 21,'Fare' => 8.4333,'Name' => "Johannes Halvorsen Kalvik",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 7.8292,'Name' => "Hanora O'Leary",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 18,'Fare' => 6.75,'Name' => "Hanora Hegarty",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 73.5,'Name' => "Leonard Mark Hickman",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 7.8958,'Name' => "Alexander Radeff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 15.5,'Name' => "John (Catherine) Bourke",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 13,'Name' => "George Floyd Eitemiller",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 58,'Fare' => 113.275,'Name' => "Arthur Webster Newell",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 50,'Fare' => 133.65,'Name' => "Henry William Frauenthal",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Dr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 40,'Fare' => 7.225,'Name' => "Mohamed Badt",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 47,'Fare' => 25.5875,'Name' => "Edward Pomeroy Colley",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 7.4958,'Name' => "Peju Coleff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 7.925,'Name' => "Eino William Lindqvist",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 32,'Fare' => 73.5,'Name' => "Lewis Hickman",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 13,'Name' => "Reginald Fenton Butler",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 49,'Fare' => 7.775,'Name' => "Knud Paust Rommetvedt",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 43,'Fare' => 8.05,'Name' => "Jacob Cook",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 48,'Fare' => 52,
+  'Name' => "Elmer Zebley (Juliet Cummins Wright) Taylor",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 40,'Fare' => 39,
+  'Name' => "Thomas William Solomon (Elizabeth Catherine Ford) Brown",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 31,'Fare' => 52,'Name' => "Thornton Davidson",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 70,'Fare' => 10.5,'Name' => "Henry Michael Mitchell",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 31,'Fare' => 13,'Name' => "Charles Wilhelms",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 0,'Name' => "Ennis Hastings Watson",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 7.775,'Name' => "Gustaf Hjalmar Edvardsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24.5,'Fare' => 8.05,'Name' => "Frederick Charles Sawyer",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 9.8417,'Name' => "Anna Sofia Turja",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 43,'Fare' => 46.9,'Name' => "Frederick (Augusta Tyler) Goodwin",
+  'Parents/Children Aboard' => 6,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 512.3292,'Name' => "Thomas Drake Martinez Cardeza",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 8.1375,'Name' => "Katie Peters",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 76.7292,'Name' => "Hammad Hassab",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 20,'Fare' => 9.225,'Name' => "Thor Anderson Olsvigen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 14,'Fare' => 46.9,'Name' => "Charles Edward Goodwin",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 5,'Survived' => 0}.
+#{'Age' => 60,'Fare' => 39,'Name' => "Thomas William Solomon Brown",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 41.5792,'Name' => "Joseph Philippe Lemercier Laroche",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 14,'Fare' => 39.6875,'Name' => "Jaako Arnold Panula",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 10.1708,'Name' => "Branko Dakic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 7.7958,'Name' => "Eberhard Thelander Fischer",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 15,'Fare' => 211.3375,'Name' => "Georgette Alexandra Madill",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 31,'Fare' => 57,'Name' => "Albert Adrian Dick",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 4,'Fare' => 13.4167,'Name' => "Manca Karun",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 37,'Fare' => 56.4958,'Name' => "Ali Lam",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 25,'Fare' => 7.225,'Name' => "Khalil Saad",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 60,'Fare' => 26.55,'Name' => "John Weir",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Col",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 52,'Fare' => 13.5,'Name' => "Charles Henry Chapman",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 44,'Fare' => 8.05,'Name' => "James Kelly",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 7.7333,'Name' => "Katherine Mullens",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 49,'Fare' => 110.8833,'Name' => "John Borland Thayer",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 42,'Fare' => 7.65,'Name' => "Adolf Mathias Nicolai Olsen Humblen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 227.525,
+  'Name' => "John Jacob (Madeleine Talmadge Force) Astor",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 35,'Fare' => 26.2875,'Name' => "Spencer Victor Silverthorne",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 18,'Fare' => 14.4542,'Name' => "Saiide Barbara",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 7.7417,'Name' => "Martin Gallagher",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 26,'Fare' => 7.8542,'Name' => "Henrik Juul Hansen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 26,'Name' => "Henry Samuel Morley",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 45,'Fare' => 13.5,'Name' => "Florence Kelly",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 42,'Fare' => 26.2875,'Name' => "Edward Pennington Calderhead",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 151.55,'Name' => "Alice Cleaver",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 4,'Fare' => 15.2458,'Name' => "Halim Gonios Moubarek",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 49.5042,'Name' => "Berthe Antonine Mayne",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mlle",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 41,'Fare' => 26.55,'Name' => "Herman Klaber",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 48,'Fare' => 52,'Name' => "Elmer Zebley Taylor",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 29,'Fare' => 9.4833,'Name' => "August Viktor Larsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 52,'Fare' => 13,'Name' => "Samuel Greenberg",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 7.65,
+  'Name' => "Peter Andreas Lauritz Andersen Soholt",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 38,'Fare' => 227.525,'Name' => "Caroline Louise Endres",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 27,'Fare' => 10.5,'Name' => "Edwina Celia Troutt",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 33,'Fare' => 7.775,'Name' => "Malkolm Joackim Johnson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 6,'Fare' => 33,'Name' => "Annie Jessie Harper",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 17,'Fare' => 7.0542,'Name' => "Svend Lauritz Jensen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 34,'Fare' => 13,'Name' => "William Henry Gillespie",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 50,'Fare' => 13,'Name' => "Henry Price Hodges",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 53.1,'Name' => "Norman Campbell Chambers",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 20,'Fare' => 8.6625,'Name' => "Luka Oreskovic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 21,'Name' => "Peter Henry (Lillian Jefferys) Renouf",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 3,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 7.7375,'Name' => "Margareth Mannion",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 25,'Fare' => 26,'Name' => "Kurt Arnold Gottfrid Bryhl",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 7.925,'Name' => "Pieta Sofia Ilmakangas",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 211.3375,'Name' => "Elisabeth Walton Allen",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 11,'Fare' => 18.7875,'Name' => "Houssein G N Hassan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 41,'Fare' => 0,'Name' => "Robert J Knight",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 13,'Name' => "William John Berriman",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 13,'Name' => "Moses Aaron Troupiansky",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28.5,'Fare' => 16.1,'Name' => "Leslie Williams",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 48,'Fare' => 34.375,'Name' => "Edward (Margaret Ann Watson) Ford",
+  'Parents/Children Aboard' => 3,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 512.3292,'Name' => "Gustave J Lesurer",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 20,'Fare' => 7.8958,'Name' => "Kanio Ivanoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 7.8958,'Name' => "Minko Nankoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 45,'Fare' => 30,'Name' => "Walter James Hawksford",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 36,'Fare' => 78.85,'Name' => "Tyrell William Cavendish",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 262.375,'Name' => "Susan Parker Ryerson",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 2,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 16.1,'Name' => "Neal McNamee",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 31,'Fare' => 7.925,'Name' => "Juho Stranden",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 70,'Fare' => 71,'Name' => "Edward Gifford Crosby",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Capt",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 20.25,'Name' => "Rossmore Edward Abbott",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 13,'Name' => "Anna Sinkkonen",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 53.1,'Name' => "Daniel Warner Marvin",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 31,'Fare' => 7.75,'Name' => "Michael Connaghton",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 4,'Fare' => 23,'Name' => "Joan Wells",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 6,'Fare' => 12.475,'Name' => "Meier Moor",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 33,'Fare' => 9.5,'Name' => "Johannes Joseph Vande Velde",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 7.8958,'Name' => "Lalio Jonkoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 48,'Fare' => 65,'Name' => "Samuel (Jane Laver) Herman",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 0.67,'Fare' => 14.5,'Name' => "Viljo Hamalainen",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 28,'Fare' => 7.7958,'Name' => "August Sigfrid Carlsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 11.5,'Name' => "Percy Andrew Bailey",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 34,'Fare' => 8.05,'Name' => "Thomas Leonard Theobald",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 33,'Fare' => 86.5,
+  'Name' => "of (Lucy Noel Martha Dyer-Edwards) Rothes",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "the Countess",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 23,'Fare' => 14.5,'Name' => "John Garfirth",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 41,'Fare' => 7.125,'Name' => "Iisakki Antino Aijo Nirva",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 7.2292,'Name' => "Hanna Assi Barah",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 36,'Fare' => 120,'Name' => "William Ernest (Lucile Polk) Carter",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 16,'Fare' => 7.775,'Name' => "Hans Linus Eklund",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 51,'Fare' => 77.9583,'Name' => "John C (Anna Andrews) Hogeboom",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 46,'Fare' => 39.6,'Name' => "Arthur Jackson Brewe",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Dr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30.5,'Fare' => 7.75,'Name' => "Mary Mangan",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 24.15,'Name' => "Daniel J Moran",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 8.3625,'Name' => "Daniel Danielsen Gronnestad",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 9.5,'Name' => "Rene Aime Lievens",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 48,'Fare' => 7.8542,'Name' => "Niels Peder Jensen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 57,'Fare' => 10.5,'Name' => "(Mary) Mack",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 29,'Fare' => 7.225,'Name' => "Dibo Elias",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 54,'Fare' => 23,'Name' => "Elizabeth (Eliza Needs) Hocking",
+  'Parents/Children Aboard' => 3,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 18,'Fare' => 7.75,'Name' => "Pehr Fabian Oliver Malkolm Myhrman",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 7.75,'Name' => "Roger Tobin",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 5,'Fare' => 12.475,'Name' => "Virginia Ethel Emanuel",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 22,'Fare' => 7.7375,'Name' => "Thomas J Kilgannon",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 43,'Fare' => 211.3375,
+  'Name' => "Edward Scott (Elisabeth Walton McMillan) Robert",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 13,'Fare' => 7.2292,'Name' => "Banoura Ayoub",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 17,'Fare' => 57,'Name' => "Albert Adrian (Vera Gillespie) Dick",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 29,'Fare' => 30,'Name' => "Milton Clyde Long",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 23.45,'Name' => "Andrew G Johnston",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 7.05,'Name' => "William Ali",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 7.25,'Name' => "Abraham (David Lishin) Harmer",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 7.4958,'Name' => "Anna Sofia Sjoblom",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 8,'Fare' => 29.125,'Name' => "George Hugh Rice",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 1,'Fare' => 20.575,'Name' => "Bertram Vere Dean",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 46,'Fare' => 79.2,'Name' => "Benjamin Guggenheim",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 7.75,'Name' => "Andrew Keane",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 26,'Name' => "Alfred Gaskell",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 69.55,'Name' => "Stella Anna Sage",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 8,'Survived' => 0}.
+#{'Age' => 43,'Fare' => 30.6958,'Name' => "William Fisher Hoyt",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 7.8958,'Name' => "Ristiu Dantcheff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 13,'Name' => "Richard Otter",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 49,'Fare' => 25.9292,'Name' => "Alice (Farnham) Leader",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Dr",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 31,'Fare' => 8.6833,'Name' => "Mara Osman",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 7.2292,'Name' => "Yousseff Ibrahim Shawah",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 24.15,
+  'Name' => "Jean Baptiste (Rosalie Paula Govaert) Van Impe",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 34,'Fare' => 13,'Name' => "Martin Ponesell",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 31,'Fare' => 26.25,
+  'Name' => "Harvey (Charlotte Annie Tate) Collyer",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 11,'Fare' => 120,'Name' => "William Thornton II Carter",
+  'Parents/Children Aboard' => 2,'Pclass' => 1,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 0.42,'Fare' => 8.5167,'Name' => "Assad Alexander Thomas",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 27,'Fare' => 6.975,'Name' => "Oskar Arvid Hedman",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 31,'Fare' => 7.775,'Name' => "Karl Johan Johansson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 0,'Name' => "Thomas Jr Andrews",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 7.775,'Name' => "Ellen Natalia Pettersson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 13,'Name' => "August Meyer",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 33,'Fare' => 53.1,
+  'Name' => "Norman Campbell (Bertha Griggs) Chambers",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 26,'Fare' => 7.8875,'Name' => "William Alexander",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 24.15,'Name' => "James Lester",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 10.5,'Name' => "Richard James Slemen",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 6,'Fare' => 31.275,'Name' => "Ebba Iris Alfrida Andersson",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 30.5,'Fare' => 8.05,'Name' => "Ernest Portage Tomlin",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 0,'Name' => "Richard Fry",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 7.925,'Name' => "Wendla Maria Heininen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 31,'Fare' => 37.0042,'Name' => "Albert Mallet",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 43,'Fare' => 6.45,'Name' => "John Fredrik Alexander Holm",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 10,'Fare' => 27.9,'Name' => "Karl Thorsten Skoog",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 3,'Survived' => 0}.
+#{'Age' => 52,'Fare' => 93.5,
+  'Name' => "Charles Melville (Clara Jennings Gregg) Hays",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 27,'Fare' => 8.6625,'Name' => "Nikola Lulic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 38,'Fare' => 0,'Name' => "John George Reuchlin",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Jonkheer",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 12.475,'Name' => "(Beila) Moor",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 2,'Fare' => 39.6875,'Name' => "Urho Abraham Panula",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 36,'Fare' => 6.95,'Name' => "John Flynn",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 56.4958,'Name' => "Len Lam",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 1,'Fare' => 37.0042,'Name' => "Andre Mallet",
+  'Parents/Children Aboard' => 2,'Pclass' => 2,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 19,'Fare' => 7.75,'Name' => "Thomas Joseph McCormack",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 62,'Fare' => 80,'Name' => "George Nelson (Martha Evelyn) Stone",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 15,'Fare' => 14.4542,'Name' => "Antoni (Selini Alexander) Yasbeck",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 0.83,'Fare' => 18.75,'Name' => "George Sibley Richards",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 7.2292,'Name' => "Amin Saad",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 7.8542,'Name' => "Albert Augustsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 8.3,'Name' => "Owen George Allum",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 83.1583,'Name' => "Sara Rebecca Compton",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 21,'Fare' => 8.6625,'Name' => "Jakob Pasic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 20,'Fare' => 8.05,'Name' => "Maurice Sirota",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 32,'Fare' => 56.4958,'Name' => "Chang Chip",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 29,'Fare' => 29.7,'Name' => "Pierre Marechal",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 20,'Fare' => 7.925,'Name' => "Ilmari Rudolf Alhomaki",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 10.5,'Name' => "Thomas Charles Mudd",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 30,'Fare' => 31,'Name' => "Augusta Serepeca",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 34.5,'Fare' => 6.4375,'Name' => "Peter L Lemberopolous",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 17,'Fare' => 8.6625,'Name' => "Jeso Culumovic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 42,'Fare' => 7.55,'Name' => "Anthony Abbing",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 69.55,'Name' => "Douglas Bullen Sage",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 8,'Survived' => 0}.
+#{'Age' => 35,'Fare' => 7.8958,'Name' => "Marin Markoff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 33,'Name' => "John Harper",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Rev",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 40,'Fare' => 89.1042,
+  'Name' => "Samuel L (Edwiga Grabowska) Goldenberg",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 4,'Fare' => 31.275,'Name' => "Sigvard Harald Elias Andersson",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 4,'Survived' => 0}.
+#{'Age' => 74,'Fare' => 7.775,'Name' => "Johan Svensson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 9,'Fare' => 15.2458,'Name' => "Nourelain Boulos",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 16,'Fare' => 39.4,'Name' => "Mary Conover Lines",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 44,'Fare' => 26,
+  'Name' => "Ernest Courtenay (Lilian Hughes) Carter",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 18,'Fare' => 9.35,'Name' => "Sam (Leah Rosen) Aks",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 45,'Fare' => 164.8667,
+  'Name' => "George Dennick (Mary Hitchcock) Wick",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 51,'Fare' => 26.55,'Name' => "Peter Denis Daly",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 24,'Fare' => 19.2583,'Name' => "Solomon (Latifa Qurban) Baclini",
+  'Parents/Children Aboard' => 3,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 30,'Fare' => 7.2292,'Name' => "Raihed Razi",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 41,'Fare' => 14.1083,'Name' => "Claus Peter Hansen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 2,'Survived' => 0}.
+#{'Age' => 21,'Fare' => 11.5,'Name' => "Frederick Edward Giles",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 48,'Fare' => 25.9292,
+  'Name' => "Frederick Joel (Margaret Welles Barron) Swift",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 14,'Fare' => 69.55,'Name' => "Dorothy Edith Sage",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 8,'Survived' => 0}.
+#{'Age' => 24,'Fare' => 13,'Name' => "John William Gill",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 42,'Fare' => 13,'Name' => "(Karolina) Bystrom",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 27,'Fare' => 13.8583,'Name' => "Asuncion Duran y More",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 31,'Fare' => 50.4958,'Name' => "Washington Augustus II Roebling",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 9.5,'Name' => "Philemon van Melkebeke",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 4,'Fare' => 11.1333,'Name' => "Harold Theodor Johnson",
+  'Parents/Children Aboard' => 1,'Pclass' => 3,'Salutation' => "Master",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 26,'Fare' => 7.8958,'Name' => "Cerin Balkic",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 47,'Fare' => 52.5542,
+  'Name' => "Richard Leonard (Sallie Monypeny) Beckwith",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 33,'Fare' => 5,'Name' => "Frans Olof Carlsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 47,'Fare' => 9,'Name' => "Victor Vander Cruyssen",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 24,'Name' => "Samuel (Hannah Wizosky) Abelson",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 1}.
+#{'Age' => 15,'Fare' => 7.225,'Name' => "Adele Kiamie Najib",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 20,'Fare' => 9.8458,'Name' => "Alfred Ossian Gustafsson",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 7.8958,'Name' => "Nedelio Petroff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 23,'Fare' => 7.8958,'Name' => "Kristo Laleff",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 56,'Fare' => 83.1583,
+  'Name' => "Thomas Jr (Lily Alexenia Wilson) Potter",
+  'Parents/Children Aboard' => 1,'Pclass' => 1,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 25,'Fare' => 26,'Name' => "William (Imanita Parrish Hall) Shelley",
+  'Parents/Children Aboard' => 1,'Pclass' => 2,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 33,'Fare' => 7.8958,'Name' => "Johann Markun",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 22,'Fare' => 10.5167,'Name' => "Gerda Ulrika Dahlberg",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 28,'Fare' => 10.5,'Name' => "Frederick James Banfield",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 25,'Fare' => 7.05,'Name' => "Henry Jr Sutehall",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 39,'Fare' => 29.125,'Name' => "William (Margaret Norton) Rice",
+  'Parents/Children Aboard' => 5,'Pclass' => 3,'Salutation' => "Mrs",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 27,'Fare' => 13,'Name' => "Juozas Montvila",
+  'Parents/Children Aboard' => 0,'Pclass' => 2,'Salutation' => "Rev",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
+#{'Age' => 19,'Fare' => 30,'Name' => "Margaret Edith Graham",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 7,'Fare' => 23.45,'Name' => "Catherine Helen Johnston",
+  'Parents/Children Aboard' => 2,'Pclass' => 3,'Salutation' => "Miss",
+  'Sex' => female,'Siblings/  Spouses Aboard' => 1,'Survived' => 0}.
+#{'Age' => 26,'Fare' => 30,'Name' => "Karl Howell Behr",
+  'Parents/Children Aboard' => 0,'Pclass' => 1,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 1}.
+#{'Age' => 32,'Fare' => 7.75,'Name' => "Patrick Dooley",
+  'Parents/Children Aboard' => 0,'Pclass' => 3,'Salutation' => "Mr",
+  'Sex' => male,'Siblings/  Spouses Aboard' => 0,'Survived' => 0}.
