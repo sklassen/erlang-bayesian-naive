@@ -1,15 +1,14 @@
 -module(bayesian).
 -export([start/1, start/0, stop/1]).
--export([summary/1, export/1]).
+-export([summary/1, field/2, export/1]).
 -export([train/2, predict/2]).
--export([difuse/1]).
 
 % Bayesian Naive Classifier
 
--record(bnc, {count, data}).
+-record(bnc, {count, data, fields}).
 
 start() ->
-    start(#bnc{count = 0, data = #{}}).
+    start(#bnc{count = 0, data = #{}, fields = []}).
 start([]) -> 
     start();
 start(Import) ->
@@ -21,10 +20,13 @@ init(Import) ->
 train(Model, {Item, Category}) when is_map(Item) ->
     rpc(Model, {train, {Item, Category}});
 train(Model, [{Item, _} = Head | Tail]) when is_map(Item) ->
-    [rpc(Model, {train, {I, C}}) || {I, C} <- [Head | Tail]].
+    [train(Model, {I, C}) || {I, C} <- [Head | Tail]].
 
 predict(Model, Item) ->
-    rpc(Model, {predict, Item}).
+    lists:reverse(lists:keysort(2, rpc(Model, {predict, Item}))).
+
+field(Model, Field) when is_tuple(Field)->
+    rpc(Model, {field, Field}).
 
 summary(Model) ->
     rpc(Model, summary).
@@ -42,24 +44,35 @@ rpc(PID, Q) ->
     after 900 -> timeout
     end.
 
-loop(#bnc{count = Count, data = Weights} = Model) ->
+loop(#bnc{count = Count, data = Weights, fields = Fields} = Model) ->
     receive
         {From, {train, {New, Catagory}}} ->
-            NewWeights = difuse(New),
+            {NewFields,NewWeights}=diffuse(New,Fields),
             From ! {bnc, ok},
             case maps:get(Catagory, Weights, none) of
                 none ->
-                    loop(#bnc{count = Count + 1, data = maps:put(Catagory, NewWeights, Weights)});
+                    loop(#bnc{
+                        count = Count + 1, 
+                        fields= NewFields,
+                        data = maps:put(Catagory, NewWeights, Weights)
+                    });
                 OldWeights ->
                     loop(#bnc{
                         count = Count + 1,
+                        fields= NewFields,
                         data = maps:update(Catagory, update(NewWeights, OldWeights), Weights)
                     })
             end;
         {From, {predict, Item}} ->
             Sum = [{K, score(Item, maps:get(K, Weights)) / Count} || K <- maps:keys(Weights)],
-            From ! {bnc, lists:reverse(lists:keysort(2, Sum))},
+            From ! {bnc, Sum},
             loop(Model);
+        {From, {field, Field}} ->
+            Key = element(1,Field),
+            case lists:keyfind(Key, 1, Fields) of
+              false -> From ! {bnc, added}, loop(Model#bnc{fields=[Field|Fields]});
+              _Found-> From ! {bnc, replaced}, loop(Model#bnc{fields=lists:keyreplace(Key,1,Fields,Field)})
+            end;
         {From, summary} ->
             From ! {bnc, #{count => Count, catagories => maps:keys(Weights)}},
             loop(Model);
@@ -70,13 +83,18 @@ loop(#bnc{count = Count, data = Weights} = Model) ->
             From ! {bnc, stopped}
     end.
 
-difuse(Item) ->
+diffuse(Item, Fields) ->
     Iter = maps:iterator(Item),
-    difuse(maps:next(Iter), #{}).
-difuse(none, Acc) ->
-    Acc;
-difuse({K, V, Iter}, Acc) ->
-    difuse(maps:next(Iter), maps:merge(Acc, maps:put(K, maps:put(V, 1, #{}), #{}))).
+    diffuse(maps:next(Iter), Fields, #{}).
+diffuse(none, Fields, Acc) ->
+  {Fields,Acc};
+diffuse({K, V, Iter}, Fields, Acc) ->
+    New = maps:put(K, maps:put(V, 1, #{}), #{}),
+    case lists:keyfind(K,1,Fields) of
+      false -> diffuse(maps:next(Iter),[{K,catagory}|Fields], maps:merge(Acc, New));
+      {K,ignore}-> diffuse(maps:next(Iter), Fields, Acc);
+      _ -> diffuse(maps:next(Iter), Fields, maps:merge(Acc, New))
+    end.
 
 update(Map1, Weights) when is_map(Map1) ->
     Iter = maps:iterator(Map1),
