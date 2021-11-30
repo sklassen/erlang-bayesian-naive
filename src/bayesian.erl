@@ -23,7 +23,7 @@ train(Model, [{Item, _} = Head | Tail]) when is_map(Item) ->
     [train(Model, {I, C}) || {I, C} <- [Head | Tail]].
 
 predict(Model, Item) ->
-    lists:reverse(lists:keysort(2, rpc(Model, {predict, Item}))).
+    rpc(Model, {predict, Item}).
 
 field(Model, Field) when is_tuple(Field)->
     rpc(Model, {field, Field}).
@@ -65,7 +65,7 @@ loop(#bnc{count = Count, data = Weights, fields = Fields} = Model) ->
             end;
         {From, {predict, Item}} ->
             Sum = [{K, score(Item, maps:get(K, Weights)) / Count} || K <- maps:keys(Weights)],
-            From ! {bnc, Sum},
+            From ! {bnc, lists:reverse(lists:keysort(2,Sum))},
             loop(Model);
         {From, {field, Field}} ->
             Key = element(1,Field),
