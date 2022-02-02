@@ -89,11 +89,11 @@ diffuse(Item, Fields) ->
 diffuse(none, Fields, Acc) ->
   {Fields,Acc};
 diffuse({K, V, Iter}, Fields, Acc) ->
-    New = maps:put(K, maps:put(V, 1, #{}), #{}),
     case lists:keyfind(K,1,Fields) of
-      false -> diffuse(maps:next(Iter),[{K,catagory}|Fields], maps:merge(Acc, New));
+      false -> diffuse(maps:next(Iter),[{K,catagory}|Fields], maps:merge(Acc, maps:put(K, maps:put(V, 1, #{}), #{})));
       {K,ignore}-> diffuse(maps:next(Iter), Fields, Acc);
-      _ -> diffuse(maps:next(Iter), Fields, maps:merge(Acc, New))
+      {K,Fun} when is_function(Fun)-> diffuse(maps:next(Iter), Fields, maps:merge(Acc, maps:put(K, maps:put(Fun(V), 1, #{}), #{})));
+      _ -> diffuse(maps:next(Iter), Fields, maps:merge(Acc, maps:put(K, maps:put(V, 1, #{}), #{})))
     end.
 
 update(Map1, Weights) when is_map(Map1) ->

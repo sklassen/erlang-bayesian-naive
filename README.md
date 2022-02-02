@@ -38,3 +38,22 @@ ok
      #{cat => #{coat => #{orange => 1},sound => #{whine => 1}}},
      [{sound,catagory},{coat,catagory},{name,ignore}]}
 ```
+
+You can set fields to ignore or pass through function first.
+
+```
+> BNC = bayesian:start().
+<0.135.0>
+> bayesian:field(BNC,{name,ignore}).
+added
+> bayesian:field(BNC,{coat,fun(X)->string:left(atom_to_list(X),1) end}).
+added
+> bayesian:train(BNC,{#{name=>garfield,coat=>orange,sound=>whine},cat}).
+ok
+> bayesian:export(BNC).
+{bnc,1,
+     #{cat => #{coat => #{"o" => 1},sound => #{whine => 1}}},
+     [{sound,catagory},
+      {coat,#Fun<erl_eval.44.79398840>},
+      {name,ignore}]}
+```
